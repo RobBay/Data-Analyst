@@ -11,8 +11,8 @@ Welcome to my repository of data analysis projects developed during my **Data An
 | **Project**              | **Description**                                                                                         | **Key Tools**                     | **Notebook Link**                   |
 |---------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------|-------------------------------------|
 | 📈 **Megaline Tariff Analysis** | Analyzed telecom data to determine which tariff plan generates higher revenue.                       | `Pandas`, `NumPy`, `Matplotlib`, `scipy`   | [View Notebook](https://github.com/Itakyo/TRIPLETEN/blob/main/Analisis%20de%20tarifas.ipynb) |
-| 🛒 **E-commerce Sales Insights** | Explored sales data to identify trends and improve business performance for an online retailer.    | `SQL`, `Seaborn`, `Tableau`       | [View Notebook](./ecommerce_sales.ipynb) |
-| 🧪 **Customer Churn Prediction** | Built a predictive model to identify customers likely to churn using historical data.              | `Scikit-learn`, `Plotly`, `Dash`  | [View Notebook](./customer_churn.ipynb) |
+| 🛒 **E-commerce Sales Insights** | visibilidad y análisis del rendimiento de clientes mediante el LTV y ROMI.    | `Matplotlib`, `Seaborn`, `Tableau`, `scipy.stats`      | [View Notebook](https://github.com/Itakyo/TRIPLETEN/blob/main/Rendimiento%20segun%20%20LTV%20%26%20ROMI.ipynb) |
+| 🧪 **Customer Churn Prediction** | Analizar el comportamiento de los clientes en el gimnasio por clusteres              | `Scikit-learn`, `Matplotlib`, `scipy.cluster`, `Matplotlib`   | [View Notebook](https://github.com/Itakyo/TRIPLETEN/blob/main/Analisis%20de%20gimnasio%20por%20clusteres.ipynb) |
 
 ---
 
@@ -22,5 +22,4 @@ Welcome to my repository of data analysis projects developed during my **Data An
 📦 data-analysis-projects
 ├── 📂 datasets         # Raw data files used in the projects
 ├── 📂 notebooks        # Jupyter Notebooks with analysis and visualizations
-├── 📂 reports          # Summarized reports for stakeholders
 ├── README.md           # Project description and documentation
