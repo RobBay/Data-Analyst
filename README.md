@@ -10,7 +10,7 @@ Welcome to my repository of data analysis projects developed during my **Data An
 
 | **Project**              | **Description**                                                                                         | **Key Tools**                     | **Notebook Link**                   |
 |---------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------|-------------------------------------|
-| 📈 **Megaline Tariff Analysis** | Analyzed telecom data to determine which tariff plan generates higher revenue.                       | `Pandas`, `NumPy`, `Matplotlib`   | [View Notebook](./megaline_analysis.ipynb) |
+| 📈 **Megaline Tariff Analysis** | Analyzed telecom data to determine which tariff plan generates higher revenue.                       | `Pandas`, `NumPy`, `Matplotlib`, `scipy`   | [View Notebook](https://github.com/Itakyo/TRIPLETEN/blob/main/Analisis%20de%20tarifas.ipynb) |
 | 🛒 **E-commerce Sales Insights** | Explored sales data to identify trends and improve business performance for an online retailer.    | `SQL`, `Seaborn`, `Tableau`       | [View Notebook](./ecommerce_sales.ipynb) |
 | 🧪 **Customer Churn Prediction** | Built a predictive model to identify customers likely to churn using historical data.              | `Scikit-learn`, `Plotly`, `Dash`  | [View Notebook](./customer_churn.ipynb) |
 
