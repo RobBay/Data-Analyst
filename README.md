@@ -1,6 +1,6 @@
 # 📊 Data Analysis Projects by Daniel Leonardo Robelto Bayona  
 
-Welcome to my repository of data analysis projects developed during my **Data Analytics Bootcamp at TripleTen**. Each project showcases my skills in data processing, visualization, and decision-making using Python, SQL, and other tools.  
+Welcome to my repository of data analysis projects developed during my **Data Analytics Road**. Each project showcases my skills in data processing, visualization, and decision-making using Python, SQL, and other tools.  
 
 > **💡 Explore, analyze, and learn how data drives impactful decisions.**
 
@@ -23,3 +23,4 @@ Welcome to my repository of data analysis projects developed during my **Data An
 ├── 📂 datasets         # Raw data files used in the projects
 ├── 📂 notebooks        # Jupyter Notebooks with analysis and visualizations
 ├── README.md           # Project description and documentation
+
